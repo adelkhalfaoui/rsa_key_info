@@ -1,0 +1,3 @@
+pyfiglet
+pycryptodome
+rich
